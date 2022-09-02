@@ -6,13 +6,20 @@
 </p>
 
 > JS 实现的 Tiny Complier
+- [x] tokenizer 词法分析
+- [ ] parse 文法分析
+- [ ] codeGenerate 代码生成
 
 ## Author
 
 👤 **Sokiy**
 
-* Website: https://github.com/Sokiy
-* Github: [@Sokiy](https://sokiy.github.io/)
+
+* Website: [@Sokiy](https://sokiy.github.io/)
+* Github: https://github.com/Sokiy
+
+
+
 
 ## Show your support
 
